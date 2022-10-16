@@ -30,7 +30,7 @@ while user != 'qwe':
     else: print(botstr + "незнаю")
     
     user = str(input('Вы: ').lower())
-
+f.close()
 
 
 
